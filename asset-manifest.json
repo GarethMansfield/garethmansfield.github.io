@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.685677c7.css",
+    "main.js": "/static/js/main.42dd8fc5.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/qft2-final.pdf": "/static/media/qft2-final.cf2c3a7874f854bbbc28.pdf",
+    "static/media/TheScene.mp4": "/static/media/TheScene.08331eafbe8029c6124d.mp4",
+    "static/media/ZFR2.pdf": "/static/media/ZFR2.b2d53c1f17287911d8e9.pdf",
+    "static/media/Licorice 1.jpg": "/static/media/Licorice 1.ea894dc4b395d7e465bb.jpg",
+    "index.html": "/index.html",
+    "main.685677c7.css.map": "/static/css/main.685677c7.css.map",
+    "main.42dd8fc5.js.map": "/static/js/main.42dd8fc5.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685677c7.css",
+    "static/js/main.42dd8fc5.js"
+  ]
+}
